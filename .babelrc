@@ -1,0 +1,24 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "modules": false,
+        "target": ["> .5%","last 20 version", "not < 8"]
+      }
+    ],
+    "stage-1"
+  ],
+  "plugins": [
+    [
+      "transform-vue-jsx",
+      "transform-runtime",
+      "syntax-dynamic-import",
+      {
+        "polyfill": false
+      },
+      "component"
+    ]
+  ],
+  "comments": false
+}

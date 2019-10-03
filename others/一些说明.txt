@@ -1,0 +1,13 @@
+player: 当前播放的音乐信息
+isShow: 是否显示底部播放条
+isShowSongPlayerPage: 是否显示歌单
+playButtonType: 播放按钮类型
+songListArr: 播单音乐数据 (这个数据有可能会变, 相当于第二个容器)
+originalSongList: 原始数据(相当于第一个)
+qqMusicMsg: 返回的数据信息(一般用不到)
+index: 播单当前的下标, 表示播放谁
+isEnded: 是否已经结束了播放
+isLoop: 是否需要单曲循环
+playerLoopIcon : 循环播放类型
+showSearch: 显示searchPages页面
+volume: 音量

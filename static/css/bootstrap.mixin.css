@@ -1,0 +1,16 @@
+/*0.39*/
+.col-12-39 {
+    position: relative;
+    width: 33.33%;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+/*0.2*/
+.col-12-5{
+    position: relative;
+    width: 20%;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
